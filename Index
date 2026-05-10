@@ -2,4 +2,6 @@
 <html>
   <head>
     <a rel="me" href="https://mastodon.social/@1027">Mastodon</a>
+    <meta name="fediverse:creator" content="@1027@mastodon.social">
+    <link href="https://mastodon.social/@1027" rel="me">
   </head>
